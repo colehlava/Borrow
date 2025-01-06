@@ -1,10 +1,10 @@
-# Borrow
+# Borrow Protocol
 
 ## Description
-A simple decentralized protocol that allows an owner to rent out a luxury watch in exchange for a fee and collateral from the borrower.
+A simple decentralized protocol that allows an owner to rent out luxury goods (such as a watch) in exchange for a fee and collateral from the borrower.
 
 ## Purpose
-This protocol enables trustless loans without selling collateral and incurring capital gains.
+This protocol enables trustless loans on the blockchain while allowing the borrower to provide collateral for the loan without selling assets.
 
 ### Usage
 - The owner sets the required rental fee, collateral, and expiration date.
